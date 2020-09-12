@@ -62,7 +62,7 @@ The lambda functions are created and linked to the API Gateway which provides th
    <p align="center">Figure 4: User signup page of flower basket company.</p>
    
    ![Alt Text](https://github.com/ruminder-hub/cloud_project/blob/master/screenshots/aws_cognito.png)
-   <p align="center">Figure 4: User pool created in AWS cognito, showing some of the user accounts created.</p>
+   <p align="center">Figure 5: User pool created in AWS cognito, showing some of the user accounts created.</p>
    
 ### Future Scope
 * The access token generated after login can be used to secure the lambda function access.
