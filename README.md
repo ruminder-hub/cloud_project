@@ -33,4 +33,4 @@ The two phase commit protocol is implemented for flower basket combos orders on 
 * When user hits the url, the request is passed to the method in Sailsjs linked to the request. It internally calls the lambda function corresponding to that function.
 * Flower can be easily searched, as partial search is supported by the application.
  ![Alt Text](https://github.com/ruminder-hub/cloud_project/blob/master/screenshots/blossom_home_page.png)
- Figure 1: Home page of blossom company.
+ <p align="center">Figure 1: Home page of blossom company.</p>
