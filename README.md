@@ -16,3 +16,4 @@
 ## Architecture of Blossom Company
 * The application is developed on Salis framework and all the logic is written in AWS lambda functions. 
 * When user hits the url, the request is passed to the method in Sailsjs linked to the request. It internally calls the lambda function corresponding to that function.
+ ![Alt Text](https://github.com/ruminder-hub/cloud_project/blob/master/screenshots/blossom_home_page.png)
